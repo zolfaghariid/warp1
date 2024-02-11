@@ -6,7 +6,7 @@
 
 inatall
 ```
-bash <(curl -fsSL https://raw.githubusercontent.com/zolfaghariid/warp/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/Ptechgithub/warp/main/install.sh)
 ```
 
 ![15](https://raw.githubusercontent.com/Ptechgithub/configs/main/media/15.jpg)
@@ -16,7 +16,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/zolfaghariid/warp/main/insta
 ## اسکنر IP Warp 
 ## Endpoint IP scanner
 ```
-bash <(curl -fsSL https://raw.githubusercontent.com/Zolfaghariid/warp/main/endip/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/Ptechgithub/warp/main/endip/install.sh)
 ```
 ![16](https://raw.githubusercontent.com/Ptechgithub/configs/main/media/16.jpg)
 [دریافت License Key رایگان](https://t.me/generatewarpplusbot)
